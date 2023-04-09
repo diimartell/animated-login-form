@@ -14,7 +14,7 @@ O projeto consiste em uma página de login simples, com background animado.
 ## Preview
 
 
-- Para conferir o projeto compleo, basta clicar neste link: https://diimartell.github.io/animated-login-form/
+- Para conferir o projeto completo, basta clicar neste link: https://diimartell.github.io/animated-login-form/
 
 
 
